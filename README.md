@@ -9,3 +9,4 @@
  5.Developer's mode
 
 Download the apk file and install the app in your Android*
+Download Link : https://github.com/nishant-chhillar/Fluent/commit/d56f90b6f953ab62a96b7d172eac2ef355995fa2
