@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".Developer">
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="328dp"
+        android:layout_height="118dp"
+        android:layout_marginTop="11dp"
+        android:fontFamily="monospace"
+        android:text="$ Welcome to fluent developers terminal
+                     [*] USEFULL COMMANDS [*]
+                                '-help' : for help and more commands
+                     '-info' : information
+                     '-copyright' : copyright claim
+                     'exit' : exit terminal
+                     ----------------------------------------------------"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/enterbtn"
+        android:layout_width="98dp"
+        android:layout_height="41dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="monospace"
+        android:text="Enter"
+        android:textColor="#FBFBFB"
+        android:textSize="16sp"
+        app:backgroundTint="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView22"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="344dp"
+        android:layout_height="505dp"
+        android:fontFamily="monospace"
+        android:textColor="#1565C0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.641" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

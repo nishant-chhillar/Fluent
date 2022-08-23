@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322760411670",
+    "project_id": "fluent-20",
+    "storage_bucket": "fluent-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322760411670:android:bcd0629f89f47d80a7c337",
+        "android_client_info": {
+          "package_name": "com.example.fluent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322760411670-vq6669o8iol0vf9sdu2qde3r43vmqobh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluent",
+            "certificate_hash": "e3a8f6a6e5461495d0364d41d4ef6596560900f5"
+          }
+        },
+        {
+          "client_id": "322760411670-6jccp74j2vorvo48a8guqf9r7qqh8hjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh2IbuEMFCSBprx2ZaS1OYaBk9efCYI0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322760411670-6jccp74j2vorvo48a8guqf9r7qqh8hjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
